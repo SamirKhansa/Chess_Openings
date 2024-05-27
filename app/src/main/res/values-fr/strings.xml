@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ouvertures d\'échecs</string>
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="open_nav">Ouvrir la navigation</string>
+    <string name="close_nav">Fermer la navigation</string>
+    <string name="Chess_Openings">Ouvertures d\'échecs</string>
+    <string name="Description">L\'objectif de cette application est de vous aider à découvrir de nouvelles ouvertures d\'échecs</string>
+    <string name="Welcome">Bienvenue</string>
+    <string name="Intrested">Êtes-vous intéressé à apprendre de nouvelles ouvertures!</string>
+    <string name="GetStarted">Voulez-vous commencer à découvrir de nouvelles ouvertures?</string>
+    <string name="TryQuiz">Voulez-vous essayer un quiz pour trouver une ouverture adaptée pour vous?</string>
+    <string name="button_openings">Ouvertures</string>
+    <string name="button_quiz">Quiz</string>
+
+
+</resources>

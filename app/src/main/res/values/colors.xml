@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#e6e6fa</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Green">#00FF00</color>
+    <color name="LightGreen">#90ee90</color>
+    <color name="DarkGreen">#023020</color>
+    <color name="Grey">#808080</color>
+    <color name="Brown">#964B00</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="dialog_color_1">#FDD736</color>
+    <color name="dialog_color_2">#385796</color>
+    <color name="my_primary">#5E35B1</color>
+    <color name="my_secondary">#673AB7</color>
+    <color name="transparent">#00000000</color>
+    <color name="primary">#1B023B</color>
+    <color name="secondary">#FF03DAC5</color>
+    <color name="night_mode">#6124B1</color>
+    <color name="Notifications">#13B2C3</color>
+    <color name="private_account">#E6A326</color>
+    <color name="security">#D95F69</color>
+
+
+
+</resources>

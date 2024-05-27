@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="10dp">
+
+    <!--    <ListView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="match_parent"-->
+    <!--        android:layout_marginTop="100dp"-->
+    <!--        android:id="@+id/citiesList"/>-->
+    <TextView
+        android:id="@+id/headerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chess Openings"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:padding="8dp"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:id="@+id/ElaborationTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chess openings are the initial moves made by players at the beginnings pf a chess game. The play a crucial role in shaping the trajectory of a game, influencing the development of the middle game and ultimately impacting the outcome of the match"
+        android:layout_below="@+id/headerTextView"
+        android:textSize="10sp"
+        android:textColor="@color/black"
+        android:padding="8dp"
+        android:layout_centerHorizontal="true"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/ContactsRecyleView"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ElaborationTextView"
+        />
+</RelativeLayout>

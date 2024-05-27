@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فتحات الشطرنج</string>
+    <string name="hello_blank_fragment">مرحبًا بالقطعة الفارغة</string>
+    <string name="open_nav">افتح التنقل</string>
+    <string name="close_nav">أغلق التنقل</string>
+    <string name="Chess_Openings">فتحات الشطرنج</string>
+    <string name="Description">هدف هذا التطبيق هو مساعدتك على اكتشاف فتحات الشطرنج الجديدة</string>
+    <string name="Welcome">مرحبًا</string>
+    <string name="Intrested">هل أنت مهتم بتعلم فتحات جديدة!</string>
+    <string name="GetStarted">هل تريد البدء في اكتشاف فتحات جديدة؟</string>
+    <string name="TryQuiz">هل ترغب في تجربة اختبار لاكتشاف الفتحة المناسبة لك؟</string>
+    <string name="button_openings">فتحات</string>
+    <string name="button_quiz">اختبار</string>
+
+
+
+</resources>

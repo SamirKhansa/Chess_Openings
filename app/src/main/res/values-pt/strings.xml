@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aberturas de Xadrez</string>
+    <string name="hello_blank_fragment">Olá fragmento vazio</string>
+    <string name="open_nav">Abrir navegação</string>
+    <string name="close_nav">Fechar navegação</string>
+    <string name="Chess_Openings">Aberturas de Xadrez</string>
+    <string name="Description">O objetivo deste aplicativo é ajudá-lo a descobrir novas aberturas de xadrez</string>
+    <string name="Welcome">Bem-vindo</string>
+    <string name="Intrested">Está interessado em aprender novas aberturas!</string>
+    <string name="GetStarted">Quer começar a descobrir novas aberturas?</string>
+    <string name="TryQuiz">Quer tentar um quiz para descobrir uma abertura adequada para você?</string>
+    <string name="button_openings">Aberturas</string>
+    <string name="button_quiz">Quiz</string>
+
+
+</resources>

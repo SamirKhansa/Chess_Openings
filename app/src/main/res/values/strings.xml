@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChessOpenings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">open_nav</string>
+    <string name="close_nav">close_nav</string>
+    <string name="Chess_Openings">Chess Openings</string>
+    <string name="Description">The Goal of this app is to help you Discover new Chess Openings</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Intrested">Are you Interested in learning new Openings!</string>
+    <string name="GetStarted">Want to get started in discovering new Openings?</string>
+    <string name="TryQuiz">Want to try a quiz in finding out a suitable opening for you?</string>
+    <string name="button_openings">Openings</string>
+    <string name="button_quiz">Quiz</string>
+
+
+
+
+
+
+
+
+
+</resources>
